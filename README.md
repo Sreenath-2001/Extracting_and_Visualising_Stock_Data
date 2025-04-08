@@ -24,5 +24,4 @@ This project fetches stock data from Yahoo Finance using the `yfinance` library 
 - Extract historical stock data by ticker symbol and date range
 - Line plot for stock closing prices
 - Candlestick chart for visualization
-- Export data to CSV format
 - Easy to use and modify
